@@ -74,7 +74,7 @@ The Project may seek to integrate and contribute back to other open source proje
 
 **Compliance with Policies and Licenses**
 Contributors will comply with the policies adopted by the Steering Committee of Enterprise Neurosystem. These policies may include:
-* Contributor requirements, including use of the Developer Certificate of Origin
+* Contributor requirements, including use of the [Developer Certificate of Origin](https://developercertificate.org/)
 * Code of Conduct and complaint process
 * Terms of Use
 * Trademark and Branding Policy
