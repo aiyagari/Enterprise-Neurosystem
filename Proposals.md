@@ -1,4 +1,4 @@
-This folder contains proposals for community projectsEnterprise Neurosystem Governance <Draft>
+Enterprise Neurosystem Governance <Draft>
 
 **Project Mission & Scope**
 
