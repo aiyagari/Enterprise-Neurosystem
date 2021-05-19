@@ -66,7 +66,7 @@ Amendments to this or Policy documents require a majority vote of the Steering C
 
 **Community Assets and Intellectual Property**
 
-The Platform is licensed under the Apache v2.0 license. Subsidiary Projects may choose other licenses, to be specified in their respective technical charters. Project documentation, web and marketing content shall be published under Creative Commons license. The Project shall develop and own all Project repositories and social media accounts, and domain name registrations created by the Project.
+The Platform is licensed under the Apache v2.0 license. Subsidiary Projects may choose other licenses, to be specified in their respective technical charters. Project documentation, web and marketing content shall be published under Creative Commons CC BY license. The Project shall develop and own all Project repositories and social media accounts, and domain name registrations created by the Project.
 
 Title to all trade or service marks used by the Project (“Project Trademarks”) is currently held by Red Hat, Inc. In the event that the Project starts or joins an open source foundation or fiscal conservancy, Project Trademarks shall be transferred and assigned to that entity to hold on behalf of the Project. Any use of any Project Trademarks by participants in the Project or others shall be in accordance with the Trademark and Branding Policy.
 
